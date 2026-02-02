@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hoş Geldiniz!
 
-<!--
-**salginn/salginn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Siber Güvenlik Meraklısı | İstekli & Öğrenmeye Açık
 
-Here are some ideas to get you started:
+Merhaba! Ben sürekli öğrenmeye ve gelişmeye açık, siber güvenlik alanında kendini geliştiren biriyim. Yeni teknolojileri keşfetmeyi ve güvenlik açıklarını anlamayı seviyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+## 🚀 Aktif Projeler
+
+### 🐍 Kobra - AI Tabanlı Red Team Aracı
+> Yapay zeka destekli red team operasyonları için geliştirdiğim otomasyon aracı. Kobra, güvenlik testlerinde kullanılan araçları AI ile entegre ederek daha akıllı ve verimli testler yapılmasını sağlıyor.
+
+**Özellikler:**
+- 🤖 AI destekli güvenlik analizi
+- 🔍 Otomatik zafiyet tespiti
+- ⚡ Red team araçlarının entegrasyonu
+
+---
+
+## 📫 İletişim
+
+Benimle iletişime geçmek veya projelerim hakkında konuşmak isterseniz, her zaman mesaj atabilirsiniz!
+
+---
+
+<div align="center">
+  
+### 💡 "Güvenlik bir hedef değil, bir yolculuktur."
+
+![Profile Views](https://komarev.com/ghpvc/?username=KULLANICI_ADINIZ&color=blueviolet&style=flat-square)
+
+</div>
